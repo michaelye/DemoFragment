@@ -1,0 +1,12 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/title_btn_rect_selected" android:state_pressed="true"/>
+ <!-- pressed -->
+    <item android:drawable="@drawable/title_btn_rect_selected" android:state_focused="true"/>
+ <!-- focused -->
+    <item android:drawable="@drawable/title_btn_rect_selected" android:state_selected="true"/>
+ <!-- selected -->
+    <item android:drawable="@drawable/title_btn_rect_normal"/>
+ <!-- normal -->
+
+</selector>

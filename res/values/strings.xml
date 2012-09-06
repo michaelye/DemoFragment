@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">DemoFragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="bottom_item_one">我执行</string>
+    <string name="bottom_item_two">我发起</string>
+    <string name="bottom_item_three">团队</string>
+    <string name="bottom_item_four">执行</string>
+    <string name="bottom_item_five">设置</string>
+    
+    <string name="button_text">显示图标</string>
+    
+    <string name="workbench_title">我执行的任务</string>
+    <string name="workbench_home_page">首  页</string>
+    <string name="workbench_add_task">新增任务</string>
+    
+    <string name="num_0">0</string>
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_4">4</string>
+    
+    <string name="indicate_value">99</string>
+    
+</resources>
